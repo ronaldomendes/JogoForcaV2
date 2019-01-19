@@ -1,0 +1,8 @@
+C:\Users\Ronaldo\Documents\SharpDevelop Projects\JogoForcaV2\JogoForcaV2\bin\Debug\JogoForcaV2.exe.config
+C:\Users\Ronaldo\Documents\SharpDevelop Projects\JogoForcaV2\JogoForcaV2\bin\Debug\JogoForcaV2.exe
+C:\Users\Ronaldo\Documents\SharpDevelop Projects\JogoForcaV2\JogoForcaV2\bin\Debug\JogoForcaV2.pdb
+C:\Users\Ronaldo\Documents\SharpDevelop Projects\JogoForcaV2\JogoForcaV2\obj\Debug\JogoForcaV2.csprojResolveAssemblyReference.cache
+C:\Users\Ronaldo\Documents\SharpDevelop Projects\JogoForcaV2\JogoForcaV2\obj\Debug\JogoForcaV2.MainForm.resources
+C:\Users\Ronaldo\Documents\SharpDevelop Projects\JogoForcaV2\JogoForcaV2\obj\Debug\JogoForcaV2.csproj.GenerateResource.Cache
+C:\Users\Ronaldo\Documents\SharpDevelop Projects\JogoForcaV2\JogoForcaV2\obj\Debug\JogoForcaV2.exe
+C:\Users\Ronaldo\Documents\SharpDevelop Projects\JogoForcaV2\JogoForcaV2\obj\Debug\JogoForcaV2.pdb
